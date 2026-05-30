@@ -93,28 +93,27 @@
 </div>
 
 ---
-
 <!-- ================= TROPHIES ================= -->
 
-##  GitHub Trophies
+##  GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=2&column=6&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
-##  Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=2&column=5&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=2&column=6&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= OPTIONAL HIGHLIGHT ================= -->
+
+##  Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=10&margin-h=10" />
+
+</div>
 
 ##  Connect With Me
 
