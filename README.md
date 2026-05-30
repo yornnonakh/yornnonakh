@@ -103,7 +103,9 @@ Always learning new technologies
 
 ### 📊 Trophy Progress
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=7F52FF&area=true"/>
+
 
 </div>
 
