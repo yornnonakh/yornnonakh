@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Yorn%20Nona&fontSize=55&fontAlignY=40&desc=Flutter%20Developer%20|%20Front-End%20Developer&descAlignY=60&animation=fadeIn"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Yorn Nona
+# Hello, I'm Yorn Nona
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Front-End+Developer;Mobile+App+Developer;UI%2FUX+Lover;Always+Learning+New+Things" />
 
