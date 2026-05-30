@@ -70,7 +70,7 @@ Always learning new technologies
 
 ###  Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
 <br>
 
