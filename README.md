@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YornNona&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github.com/yornnonakh"/>
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10"/>
+<img src="https://github.com/yornnonakh"/>
 
 </div>
 
@@ -111,6 +111,6 @@
 
 <div align="center">
 
- *Add WakaTime later for real-time stats*
+ Add WakaTime later for real-time stats
 
-https://github.com/anuraghazra/github-readme-stats
+https://github.com/yornnonakh
