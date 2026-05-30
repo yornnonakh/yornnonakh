@@ -84,19 +84,31 @@
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 
-##  Contribution Graph
+## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=7F52FF&area=true"/>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YornNona&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=7F52FF&area=true"/>
+
+</div>
 
 ---
 
 <!-- ================= TROPHIES ================= -->
 
+##  GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=2&column=6&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
 ##  Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=5&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YornNona&theme=tokyonight&row=2&column=5&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -108,11 +120,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YornNona">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/YornNona">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -130,7 +142,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YornNona&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
