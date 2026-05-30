@@ -15,17 +15,17 @@
 
 ### 🚀 About Me
 
-💻 Passionate about building modern applications  
-📱 Flutter & Mobile App Developer  
-🎨 Love beautiful UI/UX design  
-⚡ Write clean and scalable code  
-🔥 Always learning new technologies
+ Passionate about building modern applications  
+ Flutter & Mobile App Developer  
+ Love beautiful UI/UX design  
+ Write clean and scalable code  
+ Always learning new technologies
 
 </div>
 
 ---
 
-# 🌌 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -109,9 +109,9 @@
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile
+###  Thanks for visiting my profile
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250", height="400"/>
 
 </div>
 
