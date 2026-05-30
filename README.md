@@ -18,7 +18,7 @@
 
 <div align="center">
 
->  *Modern Developer | Clean UI Lover | Problem Solver*
+>  Modern Developer | Clean UI Lover | Problem Solver
 
 </div>
 
