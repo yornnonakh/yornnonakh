@@ -1,118 +1,108 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hi%20👋,%20I'm%20Yorn%20Nona&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Yorn%20Nona&fontSize=55&fontAlignY=40&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer&descAlignY=60&animation=fadeIn"/>
 
-# 💻 Front-End Developer | Flutter Developer
-
-### 🚀 Passionate about Flutter, Kotlin, React & UI/UX Design
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+To+My+GitHub;Flutter+Developer+🚀;Kotlin+Developer+📱;Front-End+Developer+💻;Building+Modern+Mobile+Apps" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+# 👨‍💻 About Me
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```yaml
 Name: Yorn Nona
+Role: Mobile App Developer
 Location: Cambodia 🇰🇭
-Role: Front-End Developer
-Learning: Flutter, Kotlin, System Design
-Focus: Mobile App Development
-```
+Learning: Flutter & Kotlin
+Focus: Modern UI/UX Mobile Apps
+````
 
-- 🔭 I’m currently working on **Flutter Projects**
-- 🌱 I’m learning **Kotlin & Native Android**
-- 💬 Ask me about **Flutter, Kotlin, UI Design**
-- ⚡ Fun fact: I love building modern UI apps
+* 🚀 Building beautiful mobile applications
+* 🌱 Learning Native Android with Kotlin
+* 💬 Ask me about Flutter, Kotlin, UI Design
+* ⚡ Passionate about Front-End Development
 
----
-
-## 🚀 Technology Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+# 📱 Mobile App Development
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="700" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,dart,firebase,js,react,html,css,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yornnona&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yornnona&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=yornnona&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=yornnona&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yornnona">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=yornnona&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+### ⭐ Thanks For Visiting My GitHub Profile ⭐
 
 </div>
+```
