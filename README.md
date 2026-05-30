@@ -97,10 +97,41 @@ Always learning new technologies
 ---
 
 #  GitHub Trophies
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" 
+  alt="GitHub Trophies" 
+/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Achievement+Unlocked+🏆;Clean+Code+%F0%9F%92%BB;Modern+UI+Designer+🎨;Flutter+Developer+📱" />
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+### ✨ Achievement Showcase
+
+🏅 Passionate about writing clean & scalable code  
+🚀 Building modern mobile & web applications  
+💡 Always learning new technologies  
+🔥 Love creating beautiful UI/UX experiences
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Trophy Progress
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
